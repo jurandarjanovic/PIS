@@ -21,3 +21,8 @@ Informacijski sustav je uređeni skup elemenata, odnosno komponenata koje u međ
 * Sastoji se od četiri osnovne faze: 1. Inicijalizacija (nastajanje), 2. Ekspanzija (rast), 3. Konsolidacija (sazrijevanje) i 4. Zrelost sustava.
 
 # II PREDAVANJE
+
+### 1. WBS (struktura raščlambe rada)
+* Sustav za raščlanjivanje projekta na upravljačke dijelove uključujući faze, isporuke i radne pakete. Fokusira se na popise zadataka i distribuciju resursa a ne na rokove, te se nadopunjuje sa CPM i PERT metodom. Jedna od glavnih značajki WBS-a jest da se svi elementi moraju zbrajati u jednu cjelinu, odnosno zadatak se ne može smatrati završenim ako svi podzadaci nisu izvršeni, te projekt nije završen ako svi zadaci nisu završeni.Prednosti ove tehnike su da razbija velike projekte (događaje) na upravljačke dijelove, definira hijerarhiju zadataka i kategorizira rad. Nedostaci ove tehnike su da plan projekta nije cijelovit, ne uzima u obzir vrijeme, te ne ukazuje na to kako i tko će obavljati zadatke.
+### 2. CPM (metoda kritičnog puta)
+* Slijed planiranih aktivnosti koje određuju trajanje projekta, ove planirane aktivnosti moraju se izvršiti određenim redoslijedom ako se projekt želi smatrati uspješnim. CPM opisuje najduži slijed zadataka u određenom projektu. 
